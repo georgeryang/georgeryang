@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @georgeryang
-- 👀 I’m interested in UX design and data science
-- 📫 How to reach me: my website (georgeryang.xyz) or LinkedIn (georgeryang)
+# Hi, I'm George
 
-<!---
-georgeryang/georgeryang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I take product work from research to shipped code, with accessibility built in and tested. Senior UX designer in Miami.
+
+- **[New Music Radar](https://new-music-radar.web.app/)**: a music app I built that checks for new releases every night.
+
+[Website](https://gryang.pages.dev) · [LinkedIn](https://www.linkedin.com/in/georgeryang/)
